@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fatemahfajfa-maker.github.io/sitemap.xml

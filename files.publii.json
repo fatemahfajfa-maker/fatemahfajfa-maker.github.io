@@ -1,0 +1,307 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "3f1ff99dad3065ec74adf34215d96ee7"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "4e1c6244455e2a19ec7b294b7b1c2331"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "a0ba884548820066dfadd8416036abba"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "c8f24385262425ace55bdac985c878df"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "dafec4f87fead6718cb125f0b0fc8441"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/samantha-leo",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/samantha-leo/index.html",
+        "type": "file",
+        "md5": "9fb420ff3e6f087e93c054051c0a199c"
+    },
+    {
+        "path": "authors/samantha-leo/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/samantha-leo/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/samantha-leo/page/2/index.html",
+        "type": "file",
+        "md5": "fb68376daef17a9073bbcd2f987738f2"
+    },
+    {
+        "path": "discover-the-best-online-furniture-website-in-the-usa-for-stylish-and-affordable-home-decor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-the-best-online-furniture-website-in-the-usa-for-stylish-and-affordable-home-decor/index.html",
+        "type": "file",
+        "md5": "e5afb663d0f6d413d3a17cf365e242c7"
+    },
+    {
+        "path": "discover-the-unique-charm-of-handmade-furniture-at-our-usa-store",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-the-unique-charm-of-handmade-furniture-at-our-usa-store/index.html",
+        "type": "file",
+        "md5": "cf16b5f6dc3cd94f7a21f2e49cbdda9f"
+    },
+    {
+        "path": "enhancing-your-living-space-with-victorian-end-tables-timeless-elegance-and-functionality",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/enhancing-your-living-space-with-victorian-end-tables-timeless-elegance-and-functionality/index.html",
+        "type": "file",
+        "md5": "6e9dadd17ca0ddd21b0d0d882ff40db9"
+    },
+    {
+        "path": "exploring-the-elegance-of-victorian-benches-timeless-additions-to-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/exploring-the-elegance-of-victorian-benches-timeless-additions-to-your-home/index.html",
+        "type": "file",
+        "md5": "3d7c3ffb7dc6e9cb551627280d18734b"
+    },
+    {
+        "path": "exploring-timeless-elegance-victorian-dressers-and-nightstands-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/exploring-timeless-elegance-victorian-dressers-and-nightstands-for-your-home/index.html",
+        "type": "file",
+        "md5": "10d4d1aeff8d875bd00be9a0f84f9cb6"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "be76984cd3b3eb68d3e2cfcecf51ad84"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "295d7ab790753518686eee6b9bae09b4"
+    },
+    {
+        "path": "how-to-buy-luxury-furniture-online-a-guide-for-usa-shoppers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-buy-luxury-furniture-online-a-guide-for-usa-shoppers/index.html",
+        "type": "file",
+        "md5": "e5b06c94dd59bed035812dd257a4f700"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "de6412bb0c1e9f6499cd4b58ec8d4011"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Mobilia-Cleopatra-Logo.webp",
+        "type": "file",
+        "md5": "d15ae83c31afefc4dce17b169693afaf"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-2xl.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-lg.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-md.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-sm.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-xl.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-xs.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "1e3a5ee5e11e2cf1d62c0ab31d77c6ad"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "fdd2a95beb4495ff800eb23696400780"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "545ecd8bdc8ce62bf9e37e87d59e37d6"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "9019df2194308faf0e09a757b3370b41"
+    },
+    {
+        "path": "timeless-elegance-a-guide-to-victorian-accent-chairs-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-a-guide-to-victorian-accent-chairs-for-your-home/index.html",
+        "type": "file",
+        "md5": "03c72048fb1b3a9ff967173c92d66f7d"
+    },
+    {
+        "path": "timeless-elegance-discover-the-allure-of-victorian-dining-chairs-in-modern-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-discover-the-allure-of-victorian-dining-chairs-in-modern-homes/index.html",
+        "type": "file",
+        "md5": "7cf41d7f0cd4ebe75f7897e89bd68f57"
+    },
+    {
+        "path": "timeless-elegance-exploring-the-beauty-of-victorian-buffets-in-modern-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-exploring-the-beauty-of-victorian-buffets-in-modern-homes/index.html",
+        "type": "file",
+        "md5": "190e15a5e1aefbf1ab63050dba6673eb"
+    },
+    {
+        "path": "timeless-elegance-exploring-the-charm-of-victorian-style-furniture-in-modern-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-exploring-the-charm-of-victorian-style-furniture-in-modern-homes/index.html",
+        "type": "file",
+        "md5": "7074a085151174de67f38162b782ee13"
+    }
+]
